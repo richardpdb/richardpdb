@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @richardpdb
+- 👀 I’m interested in web apps, mobile apps, databases and productivty
+- 🌱 I’m currently learning MEAN Stack
+- 💞️ I’m looking to collaborate on any kind of projects
+- 📫 How to reach me ricardo.puentes@improving.com
